@@ -1,0 +1,21 @@
+[submodule "src/userplugins/fakeProfile"]
+	path = src/userplugins/fakeProfile
+	url = https://github.com/gujarathisampath/fakeProfile
+[submodule "src/userplugins/vc-copyStatusUrls"]
+	path = src/userplugins/vc-copyStatusUrls
+	url = https://github.com/sadan4/vc-copyStatusUrls
+[submodule "src/userplugins/vc-discordTracker"]
+	path = src/userplugins/vc-discordTracker
+	url = https://github.com/terminaate/vc-discordTracker
+[submodule "src/userplugins/vc-followUser"]
+	path = src/userplugins/vc-followUser
+	url = https://github.com/D3SOX/vc-followUser
+[submodule "src/userplugins/vc-fullUserInChatbox"]
+	path = src/userplugins/vc-fullUserInChatbox
+	url = https://github.com/sadan4/vc-fullUserInChatbox
+[submodule "src/userplugins/vc-nextRoom"]
+	path = src/userplugins/vc-nextRoom
+	url = https://github.com/terminaate/vc-nextRoom
+[submodule "src/userplugins/vc-notifyUserChanges"]
+	path = src/userplugins/vc-notifyUserChanges
+	url = https://github.com/D3SOX/vc-notifyUserChanges
