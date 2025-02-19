@@ -10,7 +10,7 @@
 }
 
 .theme-dark #vc-ytm-player {
-    background: var(--bg-overlay-1, var(--background-secondary-alt));
+    background: var(--bg-overlay-floating, var(--background-base-low));
 }
 
 .vc-ytm-button {
