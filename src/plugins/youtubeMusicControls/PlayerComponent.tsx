@@ -21,8 +21,10 @@ import "./ytmStyles.css";
 import { ImageIcon, LinkIcon, OpenExternalIcon } from "@components/Icons";
 import { debounce } from "@shared/debounce";
 import { openImageModal } from "@utils/discord";
-import { classes, copyWithToast } from "@utils/misc";
-import { ContextMenuApi, Flex, FluxDispatcher, Forms, Menu, React, useEffect, useState, useStateFromStores } from "@webpack/common";
+import { classes } from "@utils/misc";
+import { copyWithToast } from "@utils/discord";
+import { ContextMenuApi, FluxDispatcher, Forms, Menu, React, useEffect, useState, useStateFromStores } from "@webpack/common";
+import { Flex } from "@components/Flex";
 
 import { type PlayerState, type Repeat, YoutubeMusicStore } from "./YtmStore";
 
