@@ -19,3 +19,6 @@
 [submodule "src/userplugins/vc-notifyUserChanges"]
 	path = src/userplugins/vc-notifyUserChanges
 	url = https://github.com/D3SOX/vc-notifyUserChanges
+[submodule "src/userplugins/vc-fakeProfile"]
+	path = src/userplugins/vc-fakeProfile
+	url = https://github.com/gujarathisampath/fakeProfile
